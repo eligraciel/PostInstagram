@@ -1,0 +1,44 @@
+.inst-principal {
+    background: white;
+	width: 400px;
+	height: 700px;
+    margin:auto;
+}
+
+.inst-bloque1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.head {
+    display: flex;
+}
+
+.inst-bloque2 {
+    display: flex;
+}
+
+img {
+	width: 400px;
+	height: 300px;
+}
+
+.iconos {
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.iconos .far {
+    margin: 2px 3px;
+    font-size: 25px;
+}
+
+.fab{
+    font-size: 35px;
+    margin: 2px 3px;
+}
+
+p{
+    text-align: justify;
+}
